@@ -1,0 +1,34 @@
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 200px 100px 20px 100px;
+}
+
+.add-product {
+    align-self: flex-end;
+    border-radius: 5px;
+}
+.search-product {
+    width: 300px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.home-header {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    justify-content: space-between ;
+    display: flex;
+}
+
+.logout-icon {
+    margin-top: 70px;
+    margin-right: 30px;
+}
+
+.logout-icon:hover {
+    opacity: 0.6;
+}

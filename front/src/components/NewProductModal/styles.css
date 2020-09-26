@@ -1,0 +1,17 @@
+.modal-body {
+    display: flex;
+    flex-direction: column;
+}
+.modal-body input{
+    margin-top: 10px;
+    width: 70%;
+}
+.modal-body button{
+    margin-top: 10px;
+    width: 70%;
+    color: #444;
+}
+.modal-body select{
+    margin-top: 10px;
+    width: 70%;
+}
